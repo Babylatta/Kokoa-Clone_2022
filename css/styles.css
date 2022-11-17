@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import "reset.css";
+@import "status-bar.css";
+/* import는 맨 위에! 가장 상단!*/
+
+body { /* font-family에 많은 옵션 있음 이 애플스타일은 애플 글씨체로 해줌!*/
+    font-family: 'Open Sans', sans-serif;
+}
