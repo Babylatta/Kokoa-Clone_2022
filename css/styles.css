@@ -6,3 +6,20 @@
 body { /* font-family에 많은 옵션 있음 이 애플스타일은 애플 글씨체로 해줌!*/
     font-family: 'Open Sans', sans-serif;
 }
+
+.welcome-header {
+    margin:90px 0px;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.welcome-header__title {
+    margin-bottom:20px;
+    font-size:25px;
+}
+
+.welcome-header__text {
+    width:60%;
+    opacity:0.6;
+}
