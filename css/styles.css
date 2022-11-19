@@ -6,11 +6,12 @@
 @import "components/nav-bar.css";
 @import "components/screen_header.css";
 @import "components/user-component.css";
+@import "components/friends.css";
 @import "components/badge.css";
 
 /* Screens */
 @import "screens/login.css";
-@import "components/friends.css";
+@import "screens/find.css";
 /* import는 맨 위에! 가장 상단!*/
 
 body { /* font-family에 많은 옵션 있음 이 애플스타일은 애플 글씨체로 해줌!*/
